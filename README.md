@@ -2,8 +2,8 @@
 
 
 ## Introduction
-This codebase is related to our submission to EUVIP 2024:<br>
-> Anonymous authors, _Thyroidiomics: An Automated Pipeline for Segmentation and Classification of Thyroid Pathologies from Scintigraphy Images_.
+This codebase is related to our submission to the 12th European Workshop on Visual Information Processing (EUVIP) 2024:<br>
+> M. Sabouri*, S. Ahamed*, A. Asadzadeh, A. H. Avval, S. Bagheri, M. Arabi, S. R. Zakavi, E. Askari, A. Rasouli, A. Aghaee, M. Sehati, F. Yousefirizi, C. Uribe, G. Hajianfar, H. Zaidi, A. Rahmim, _Thyroidiomics: An Automated Pipeline for Segmentation and Classification of Thyroid Pathologies from Scintigraphy Images_, DOI: 10.1109/EUVIP61797.2024.10772785 (IEEE).
 
 <p align="center">
 <img src="./assets/flowchart.png" alt="Figure" height="285" />
